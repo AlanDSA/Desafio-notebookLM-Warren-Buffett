@@ -19,3 +19,8 @@ O objetivo é transformar diversas fontes de informação em uma base de conheci
 - Markdown
 
 ## Estrutura do projeto
+NotebookLM/
+├── fontes-notebook.md
+├── link-notebook.md
+├── prompts.md
+└── analise_warren_buffett.md
