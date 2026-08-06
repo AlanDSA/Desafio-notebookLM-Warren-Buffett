@@ -1,18 +1,21 @@
-# Desafio-notebookML-Warren-Buffet
-Objetivo: 
-Cria um segundo cérebro nos ensinamentos do Warren Buffett 
+# Desafio NotebookLM - Warren Buffett
 
-Fontes de video: 
-https://www.youtube.com/watch?v=IiQ3PrfOwSo
+## Objetivo
 
-https://www.youtube.com/watch?v=m3MF2rxK3Iw
+Criar um segundo cérebro utilizando o NotebookLM para organizar, analisar e extrair conhecimentos dos ensinamentos de Warren Buffett.
 
-https://www.youtube.com/watch?v=ByFQ75ZrHWc
+O objetivo é transformar diversas fontes de informação em uma base de conhecimento estruturada, permitindo consultas, análises e aprendizados sobre:
 
-https://www.youtube.com/watch?v=10QoUi2PmNs
+- Filosofia de investimento de longo prazo;
+- Value Investing;
+- Análise fundamentalista de empresas;
+- Princípios de tomada de decisão;
+- Disciplina e mentalidade de investidor.
 
-https://www.youtube.com/watch?v=JXLJkUWidFU
+## Ferramentas utilizadas
 
-Fontes de texto:
+- Google NotebookLM
+- GitHub
+- Markdown
 
-https://en.wikipedia.org/wiki/Warren_Buffett
+## Estrutura do projeto
