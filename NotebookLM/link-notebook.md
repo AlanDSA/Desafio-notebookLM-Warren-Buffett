@@ -9,5 +9,9 @@ Projeto de análise utilizando NotebookLM com fontes sobre Warren Buffett,
 Value Investing e filosofia de investimentos.
 
 
-Objetivo: 
-Cria um segundo cérebro nos ensinamentos do Warren Buffett.
+
+## Objetivo
+
+Criar um segundo cérebro utilizando o NotebookLM para organizar,
+analisar e consultar os ensinamentos de Warren Buffett,
+transformando diversas fontes em uma base de conhecimento estruturada.
