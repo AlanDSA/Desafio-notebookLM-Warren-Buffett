@@ -1,6 +1,6 @@
 # Desafio NotebookLM - Warren Buffett
 
-![Warren Buffett - NotebookLM](./imagens/Warren-Buffett.jpg)
+![Warren Buffett - NotebookLM](/imagens/Warren_Buffett.jpg)
 
 ## Objetivo
 
