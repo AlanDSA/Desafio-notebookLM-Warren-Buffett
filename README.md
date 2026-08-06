@@ -1,5 +1,7 @@
 # Desafio NotebookLM - Warren Buffett
 
+![Warren Buffett - NotebookLM](imagens/Warren-buffett.png)
+
 ## Objetivo
 
 Criar um segundo cérebro utilizando o NotebookLM para organizar, analisar e extrair conhecimentos dos ensinamentos de Warren Buffett.
