@@ -1,4 +1,5 @@
-#Fontes de video: 
+# Fontes de video: 
+
 https://www.youtube.com/watch?v=IiQ3PrfOwSo
 
 https://www.youtube.com/watch?v=m3MF2rxK3Iw
@@ -9,7 +10,7 @@ https://www.youtube.com/watch?v=10QoUi2PmNs
 
 https://www.youtube.com/watch?v=JXLJkUWidFU
 
-#Sites 
+# Sites 
 https://pt.wikipedia.org/wiki/Investimento_em_valor
 
 https://en.wikipedia.org/wiki/Warren_Buffett
@@ -23,7 +24,7 @@ https://overclub.com.br/os-6-principios-de-investimento-de-warren-buffett/
 https://forbes.com.br/forbes-money/2024/05/para-warren-buffett-psicologico-importa-tanto-quanto-aspectos-financeiros/
 
 
-#Fontes Texto / PDF:
+# Fontes Texto / PDF:
 
 https://www.berkshirehathaway.com/ownman.pdf
 
